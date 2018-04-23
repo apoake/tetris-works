@@ -1,4 +1,5 @@
 .DS_Store
+.diea/
 dist/electron/*
 dist/web/*
 build/*
